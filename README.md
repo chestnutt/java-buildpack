@@ -1,4 +1,6 @@
 # Cloud Foundry Java Buildpack
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchestnutt%2Fjava-buildpack.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchestnutt%2Fjava-buildpack?ref=badge_shield)
+
 
 The `java-buildpack` is a [Cloud Foundry][] buildpack for running JVM-based applications.  It is designed to run many JVM-based applications ([Grails][], [Groovy][], Java Main, [Play Framework][], [Spring Boot][], and Servlet) with no additional configuration, but supports configuration of the standard components, and extension to add custom components.
 
@@ -197,3 +199,6 @@ This buildpack is released under version 2.0 of the [Apache License][].
 [Running Cloud Foundry locally]: http://docs.cloudfoundry.org/deploying/boshlite/index.html
 [Spring Boot]: http://projects.spring.io/spring-boot/
 [Wikipedia]: https://en.wikipedia.org/wiki/YAML#Basic_components_of_YAML
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchestnutt%2Fjava-buildpack.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchestnutt%2Fjava-buildpack?ref=badge_large)
